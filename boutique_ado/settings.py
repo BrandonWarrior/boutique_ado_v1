@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-bf_nx7m0sd(kbofoqv1g*ba))$ux)2(ju#mr-kr5#21@5iql_d
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '127.0.0.1', # local host
+    '127.0.0.1', # vs code preview
     'localhost', # listen for stripe webhooks
 ]
 
