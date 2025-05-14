@@ -1,0 +1,4 @@
+user-agent: *
+Disallow: /accoutns/
+Disawllow: /bag/
+Sitemap: https://boutiqueado-walkthrough-75fbadc13f4e.herokuapp.com/sitemap.xml
